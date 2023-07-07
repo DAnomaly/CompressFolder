@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author tripleaims
+ *
+ */
+module CompressFolder {
+}
